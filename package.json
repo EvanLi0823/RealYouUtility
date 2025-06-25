@@ -1,0 +1,9 @@
+{
+  "name": "com.realyou.unity.utility",
+  "version": "0.0.14",
+  "displayName": "RealYou Utility",
+  "description": "utility",
+  "keywords": [],
+  "unity": "2018.3",
+  "unityRelease": "0f2"
+}
